@@ -13,3 +13,4 @@ var num = 0
 for (var i in fruit) {
     num += fruit[i]
 }
+console.log(num)
